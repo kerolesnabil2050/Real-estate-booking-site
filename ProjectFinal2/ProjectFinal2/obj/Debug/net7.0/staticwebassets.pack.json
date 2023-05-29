@@ -1,0 +1,1221 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ProjectFinal2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProjectFinal2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\00989dde-d9ee-49cf-8a14-edd2f614cf7evilla4.jfif",
+      "PackagePath": "staticwebassets\\Image\\00989dde-d9ee-49cf-8a14-edd2f614cf7evilla4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\00c754d6-535a-4d19-a513-1ac49dca13b4Screenshot (421).png",
+      "PackagePath": "staticwebassets\\Image\\00c754d6-535a-4d19-a513-1ac49dca13b4Screenshot (421).png"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\0f7d0c70-f821-4219-9090-a68c14e2dc48villa2.jfif",
+      "PackagePath": "staticwebassets\\Image\\0f7d0c70-f821-4219-9090-a68c14e2dc48villa2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\151b6c2a-f322-40b4-a94f-1534913df38chome5.jfif",
+      "PackagePath": "staticwebassets\\Image\\151b6c2a-f322-40b4-a94f-1534913df38chome5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\18fbb82d-91d3-482e-88d5-aa2f3fc7e21fvilla3.jfif",
+      "PackagePath": "staticwebassets\\Image\\18fbb82d-91d3-482e-88d5-aa2f3fc7e21fvilla3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\1a0d7368-ba0d-4781-ba5c-1b4910c330eahome2.jfif",
+      "PackagePath": "staticwebassets\\Image\\1a0d7368-ba0d-4781-ba5c-1b4910c330eahome2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\1d04a273-2e80-4cf4-98ce-4259b6916c7aScreenshot (423).png",
+      "PackagePath": "staticwebassets\\Image\\1d04a273-2e80-4cf4-98ce-4259b6916c7aScreenshot (423).png"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\1e872a40-212a-4392-b9c2-a99390faaa2cth.jfif",
+      "PackagePath": "staticwebassets\\Image\\1e872a40-212a-4392-b9c2-a99390faaa2cth.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\1ed6fbdb-bcbe-430c-abf2-df10ff466127villa3.jfif",
+      "PackagePath": "staticwebassets\\Image\\1ed6fbdb-bcbe-430c-abf2-df10ff466127villa3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\1f5df1af-8edc-43e6-8fec-b8eb494523f8villa1.jfif",
+      "PackagePath": "staticwebassets\\Image\\1f5df1af-8edc-43e6-8fec-b8eb494523f8villa1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\24501796-c1ad-4f90-b651-56d8323245bdvilla5.jfif",
+      "PackagePath": "staticwebassets\\Image\\24501796-c1ad-4f90-b651-56d8323245bdvilla5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\27a70c30-bf46-4ab6-b9cc-dafefd55301dhome3.jfif",
+      "PackagePath": "staticwebassets\\Image\\27a70c30-bf46-4ab6-b9cc-dafefd55301dhome3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\2e88bf12-1d8e-4387-b59b-f2e71eaf8b54home5.jfif",
+      "PackagePath": "staticwebassets\\Image\\2e88bf12-1d8e-4387-b59b-f2e71eaf8b54home5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\33150075-5878-4fed-b90e-37e0ad2c8debhome4.jfif",
+      "PackagePath": "staticwebassets\\Image\\33150075-5878-4fed-b90e-37e0ad2c8debhome4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\44fe363a-dcdf-4502-9a4f-e7daf79e2188home6.jfif",
+      "PackagePath": "staticwebassets\\Image\\44fe363a-dcdf-4502-9a4f-e7daf79e2188home6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\4ad6314f-4412-4c70-b9fe-2f7c823c209fhome3.jfif",
+      "PackagePath": "staticwebassets\\Image\\4ad6314f-4412-4c70-b9fe-2f7c823c209fhome3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\4af42ac4-4919-4bf3-8115-dbc18301fb3e22.webp",
+      "PackagePath": "staticwebassets\\Image\\4af42ac4-4919-4bf3-8115-dbc18301fb3e22.webp"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\4b694de2-5cd5-4f2a-84c4-a002f870235fhome6.jfif",
+      "PackagePath": "staticwebassets\\Image\\4b694de2-5cd5-4f2a-84c4-a002f870235fhome6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\4c40937f-3463-4e1e-b2df-87f334c8d37bvilla7.jfif",
+      "PackagePath": "staticwebassets\\Image\\4c40937f-3463-4e1e-b2df-87f334c8d37bvilla7.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\5476895b-0875-4cf9-8d52-4fff33951938Login2.JPG",
+      "PackagePath": "staticwebassets\\Image\\5476895b-0875-4cf9-8d52-4fff33951938Login2.JPG"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\551ddb55-82b0-4e59-a03c-16beec138514villa5.jfif",
+      "PackagePath": "staticwebassets\\Image\\551ddb55-82b0-4e59-a03c-16beec138514villa5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\5b140a2c-888a-4429-aea8-8aee7859ea97Screenshot (420).png",
+      "PackagePath": "staticwebassets\\Image\\5b140a2c-888a-4429-aea8-8aee7859ea97Screenshot (420).png"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\5b83055b-7651-44be-887a-d390654e1fe6home2.jfif",
+      "PackagePath": "staticwebassets\\Image\\5b83055b-7651-44be-887a-d390654e1fe6home2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\5bdbcda9-067e-4cfe-bee1-1848f28c25d8home3.jfif",
+      "PackagePath": "staticwebassets\\Image\\5bdbcda9-067e-4cfe-bee1-1848f28c25d8home3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\647663c5-66df-4221-9759-8612c268dc8fvilla1.jfif",
+      "PackagePath": "staticwebassets\\Image\\647663c5-66df-4221-9759-8612c268dc8fvilla1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\66b226d8-387b-41cc-a14e-611e8ee5c32avilla3.jfif",
+      "PackagePath": "staticwebassets\\Image\\66b226d8-387b-41cc-a14e-611e8ee5c32avilla3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\6ed8e94f-5a8c-4d29-8d1b-2f79816964f3villa7.jfif",
+      "PackagePath": "staticwebassets\\Image\\6ed8e94f-5a8c-4d29-8d1b-2f79816964f3villa7.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\6ffb4b28-1abe-4f52-8075-f5e60ed2d35fhomepro.png",
+      "PackagePath": "staticwebassets\\Image\\6ffb4b28-1abe-4f52-8075-f5e60ed2d35fhomepro.png"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\7091169b-1202-42cc-8982-3eafd1e87a16home4.jfif",
+      "PackagePath": "staticwebassets\\Image\\7091169b-1202-42cc-8982-3eafd1e87a16home4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\7441442b-cc9c-4ce6-8d7a-988077d76f36f6319baf-37a6-4eb2-a362-028d227d7870.jfif",
+      "PackagePath": "staticwebassets\\Image\\7441442b-cc9c-4ce6-8d7a-988077d76f36f6319baf-37a6-4eb2-a362-028d227d7870.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\747dbee2-4003-459c-8a65-10f2aee5920fhome1.jfif",
+      "PackagePath": "staticwebassets\\Image\\747dbee2-4003-459c-8a65-10f2aee5920fhome1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\75e9955f78532a33f586fdb1d79c8dc5.jpg",
+      "PackagePath": "staticwebassets\\Image\\75e9955f78532a33f586fdb1d79c8dc5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\8062057d-f113-4475-ac94-21d68f9f10bfhome5.jfif",
+      "PackagePath": "staticwebassets\\Image\\8062057d-f113-4475-ac94-21d68f9f10bfhome5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\86e545e2-be85-45e8-9185-b9f4a592c819home3.jfif",
+      "PackagePath": "staticwebassets\\Image\\86e545e2-be85-45e8-9185-b9f4a592c819home3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\89671be1-3841-4668-a1de-41997175ddabvilla1.jfif",
+      "PackagePath": "staticwebassets\\Image\\89671be1-3841-4668-a1de-41997175ddabvilla1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\89f1fb12-24d0-44a9-ab98-f2bd57b18049WhatsApp Image 2023-05-02 at 00.37.34.jpg",
+      "PackagePath": "staticwebassets\\Image\\89f1fb12-24d0-44a9-ab98-f2bd57b18049WhatsApp Image 2023-05-02 at 00.37.34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\8f942fb6-23cf-4679-ac64-d81ab105f1c9home3.jfif",
+      "PackagePath": "staticwebassets\\Image\\8f942fb6-23cf-4679-ac64-d81ab105f1c9home3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\92b2530e-a4f5-437b-975d-617fd99791a7villa6.jfif",
+      "PackagePath": "staticwebassets\\Image\\92b2530e-a4f5-437b-975d-617fd99791a7villa6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\9473c072-1d07-403e-b669-d4cb397511a1home6.jfif",
+      "PackagePath": "staticwebassets\\Image\\9473c072-1d07-403e-b669-d4cb397511a1home6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\949477a9-b7a3-4112-b3f4-8ae2b6213e91villa7.jfif",
+      "PackagePath": "staticwebassets\\Image\\949477a9-b7a3-4112-b3f4-8ae2b6213e91villa7.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\95c53db9-a133-4044-82fb-8b8588fb8cabvilla4.jfif",
+      "PackagePath": "staticwebassets\\Image\\95c53db9-a133-4044-82fb-8b8588fb8cabvilla4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\96f822da-af99-4082-81f1-c3cdb0ecfc0cvilla6.jfif",
+      "PackagePath": "staticwebassets\\Image\\96f822da-af99-4082-81f1-c3cdb0ecfc0cvilla6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\9f6374fb-6901-4fdc-940c-926ce019f218villa4.jfif",
+      "PackagePath": "staticwebassets\\Image\\9f6374fb-6901-4fdc-940c-926ce019f218villa4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\Bed.jpg",
+      "PackagePath": "staticwebassets\\Image\\Bed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\Contact.jpg",
+      "PackagePath": "staticwebassets\\Image\\Contact.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\Edit.webp",
+      "PackagePath": "staticwebassets\\Image\\Edit.webp"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\Home photo.png",
+      "PackagePath": "staticwebassets\\Image\\Home photo.png"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\IMG_20230523_141823.jpg",
+      "PackagePath": "staticwebassets\\Image\\IMG_20230523_141823.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\LOGO.jpg",
+      "PackagePath": "staticwebassets\\Image\\LOGO.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\Living room.jpg",
+      "PackagePath": "staticwebassets\\Image\\Living room.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\Log3.jpg",
+      "PackagePath": "staticwebassets\\Image\\Log3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\Login2.JPG",
+      "PackagePath": "staticwebassets\\Image\\Login2.JPG"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\Logo.png",
+      "PackagePath": "staticwebassets\\Image\\Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\a009cdfe-da41-4e2a-a909-7a3df7570765home5.jfif",
+      "PackagePath": "staticwebassets\\Image\\a009cdfe-da41-4e2a-a909-7a3df7570765home5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\a73547e7-9f9b-4d61-a364-8945b9ced52bhome1.jfif",
+      "PackagePath": "staticwebassets\\Image\\a73547e7-9f9b-4d61-a364-8945b9ced52bhome1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\a8c09cb9-68d3-4377-96f6-4b0b3bf5b71dhome4.jfif",
+      "PackagePath": "staticwebassets\\Image\\a8c09cb9-68d3-4377-96f6-4b0b3bf5b71dhome4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\a9d51e6d-9993-4767-909f-fe0623cbaeeevilla5.jfif",
+      "PackagePath": "staticwebassets\\Image\\a9d51e6d-9993-4767-909f-fe0623cbaeeevilla5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\about_banner.jpg",
+      "PackagePath": "staticwebassets\\Image\\about_banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\about_bg.jpg",
+      "PackagePath": "staticwebassets\\Image\\about_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\b0044900-7bb2-465f-b3db-26a8f9f00467home4.jfif",
+      "PackagePath": "staticwebassets\\Image\\b0044900-7bb2-465f-b3db-26a8f9f00467home4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\b4d7bf2f-d22c-451e-83c0-0d6ecc32ab42home5.jfif",
+      "PackagePath": "staticwebassets\\Image\\b4d7bf2f-d22c-451e-83c0-0d6ecc32ab42home5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\background.JPG",
+      "PackagePath": "staticwebassets\\Image\\background.JPG"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\Image\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\Image\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\banner\\banner-2_tmp18321",
+      "PackagePath": "staticwebassets\\Image\\banner"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\banner_bg.jpg",
+      "PackagePath": "staticwebassets\\Image\\banner_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\bb8427a6-f38d-48c4-a073-8714a4fefe69villa7.jfif",
+      "PackagePath": "staticwebassets\\Image\\bb8427a6-f38d-48c4-a073-8714a4fefe69villa7.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\bcef46fa-7f04-4a82-90e9-bb4405d770a34.jfif",
+      "PackagePath": "staticwebassets\\Image\\bcef46fa-7f04-4a82-90e9-bb4405d770a34.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\bf76b846-358b-4c0b-8f31-a802e923d232home6.jfif",
+      "PackagePath": "staticwebassets\\Image\\bf76b846-358b-4c0b-8f31-a802e923d232home6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\add.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\author.png",
+      "PackagePath": "staticwebassets\\Image\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\c1.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\c2.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\c3.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\c4.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\c5.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\c6.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\c6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\main-blog\\m-blog-1.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\main-blog\\m-blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\main-blog\\m-blog-2.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\main-blog\\m-blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\main-blog\\m-blog-3.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\main-blog\\m-blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\main-blog\\m-blog-4.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\main-blog\\m-blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\main-blog\\m-blog-5.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\main-blog\\m-blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\next.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\post1.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\post2.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\post3.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\post4.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\post4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\prev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\blog\\s-img.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog\\s-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\c64a54e6-c54c-4387-8946-10c5587a8019home2.jfif",
+      "PackagePath": "staticwebassets\\Image\\c64a54e6-c54c-4387-8946-10c5587a8019home2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\cc2b1555-b1ac-442e-b3c4-a5279ceb5d5chome4.jfif",
+      "PackagePath": "staticwebassets\\Image\\cc2b1555-b1ac-442e-b3c4-a5279ceb5d5chome4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\cdfe1aac-e9b2-4ff0-aa5c-4c1ee3f9680bhome2.jfif",
+      "PackagePath": "staticwebassets\\Image\\cdfe1aac-e9b2-4ff0-aa5c-4c1ee3f9680bhome2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\cef28a8b-9bc4-4544-8641-f8681aa68de3villa6.jfif",
+      "PackagePath": "staticwebassets\\Image\\cef28a8b-9bc4-4544-8641-f8681aa68de3villa6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\cf006a46-9d19-4181-aa06-6360e9cbd596Capture001.png",
+      "PackagePath": "staticwebassets\\Image\\cf006a46-9d19-4181-aa06-6360e9cbd596Capture001.png"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\d0faa9be-1a6b-4a24-8a29-91a561c10084WhatsApp Image 2023-05-02 at 00.37.30.jpg",
+      "PackagePath": "staticwebassets\\Image\\d0faa9be-1a6b-4a24-8a29-91a561c10084WhatsApp Image 2023-05-02 at 00.37.30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\d244286d-c01d-4dab-b13e-6eb17caba12cvilla2.jfif",
+      "PackagePath": "staticwebassets\\Image\\d244286d-c01d-4dab-b13e-6eb17caba12cvilla2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\d256d459-525c-442f-9408-2b35f1d7d435villa6.jfif",
+      "PackagePath": "staticwebassets\\Image\\d256d459-525c-442f-9408-2b35f1d7d435villa6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\d3b0348e-406b-4578-ae73-34944c1f087bvilla2.jfif",
+      "PackagePath": "staticwebassets\\Image\\d3b0348e-406b-4578-ae73-34944c1f087bvilla2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\db8b5557-9356-4b14-9d95-506176426e871.jfif",
+      "PackagePath": "staticwebassets\\Image\\db8b5557-9356-4b14-9d95-506176426e871.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\dbb79cdf-c9bd-40ac-a845-a9e39ba7edacvilla5.jfif",
+      "PackagePath": "staticwebassets\\Image\\dbb79cdf-c9bd-40ac-a845-a9e39ba7edacvilla5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\df906b2b-0032-4758-ae68-b78a87f082a2villa4.jfif",
+      "PackagePath": "staticwebassets\\Image\\df906b2b-0032-4758-ae68-b78a87f082a2villa4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\e38d4d6b-c1e4-4cf2-a56a-6bc2adf90f3bvilla6.jfif",
+      "PackagePath": "staticwebassets\\Image\\e38d4d6b-c1e4-4cf2-a56a-6bc2adf90f3bvilla6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\e8800a33-84ba-4b11-a914-cc7abfc7ed59WhatsApp Image 2023-05-02 at 00.37.29.jpg",
+      "PackagePath": "staticwebassets\\Image\\e8800a33-84ba-4b11-a914-cc7abfc7ed59WhatsApp Image 2023-05-02 at 00.37.29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\_DS_Store",
+      "PackagePath": "staticwebassets\\Image\\elements"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\Image\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\Image\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\Image\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\Image\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\Image\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\Image\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\Image\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\Image\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\Image\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\Image\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\Image\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\Image\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\Image\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\Image\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\Image\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\Image\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\Image\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\Image\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\Image\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\Image\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\Image\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\Image\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\Image\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\Image\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\Image\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\user1.png",
+      "PackagePath": "staticwebassets\\Image\\elements\\user1.png"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\elements\\user2.png",
+      "PackagePath": "staticwebassets\\Image\\elements\\user2.png"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\f271ad4a-e1e8-4925-bb45-87efbb3481dehome.jpg",
+      "PackagePath": "staticwebassets\\Image\\f271ad4a-e1e8-4925-bb45-87efbb3481dehome.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\f3a495ce-5982-4c11-84de-5f1e28678575villa3.jfif",
+      "PackagePath": "staticwebassets\\Image\\f3a495ce-5982-4c11-84de-5f1e28678575villa3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\f650106a-24e4-41d3-9d2e-256abf81489eScreenshot (422).png",
+      "PackagePath": "staticwebassets\\Image\\f650106a-24e4-41d3-9d2e-256abf81489eScreenshot (422).png"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\f93ff775-be1b-4f4a-9444-6164544e04f3home4.jfif",
+      "PackagePath": "staticwebassets\\Image\\f93ff775-be1b-4f4a-9444-6164544e04f3home4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\facilites_bg.jpg",
+      "PackagePath": "staticwebassets\\Image\\facilites_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\favicon.png",
+      "PackagePath": "staticwebassets\\Image\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\favicon_tmp18091",
+      "PackagePath": "staticwebassets\\Image"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\fe2b7cb3-1719-46d8-a911-f3e80eb176fcWhatsApp Image 2023-05-02 at 00.37.33.jpg",
+      "PackagePath": "staticwebassets\\Image\\fe2b7cb3-1719-46d8-a911-f3e80eb176fcWhatsApp Image 2023-05-02 at 00.37.33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\gallery\\01-1.jpg",
+      "PackagePath": "staticwebassets\\Image\\gallery\\01-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\gallery\\01.jpg",
+      "PackagePath": "staticwebassets\\Image\\gallery\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\gallery\\02-1.jpg",
+      "PackagePath": "staticwebassets\\Image\\gallery\\02-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\gallery\\02.jpg",
+      "PackagePath": "staticwebassets\\Image\\gallery\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\gallery\\03-1.jpg",
+      "PackagePath": "staticwebassets\\Image\\gallery\\03-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\gallery\\03.jpg",
+      "PackagePath": "staticwebassets\\Image\\gallery\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\gallery\\04.jpg",
+      "PackagePath": "staticwebassets\\Image\\gallery\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\gallery\\05.jpg",
+      "PackagePath": "staticwebassets\\Image\\gallery\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\gallery\\06.jpg",
+      "PackagePath": "staticwebassets\\Image\\gallery\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\home.JPG",
+      "PackagePath": "staticwebassets\\Image\\home.JPG"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\home2.JPG",
+      "PackagePath": "staticwebassets\\Image\\home2.JPG"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\instagram\\Image-01.jpg",
+      "PackagePath": "staticwebassets\\Image\\instagram\\Image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\instagram\\Image-02.jpg",
+      "PackagePath": "staticwebassets\\Image\\instagram\\Image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\instagram\\Image-03.jpg",
+      "PackagePath": "staticwebassets\\Image\\instagram\\Image-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\instagram\\Image-04.jpg",
+      "PackagePath": "staticwebassets\\Image\\instagram\\Image-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\instagram\\Image-05.jpg",
+      "PackagePath": "staticwebassets\\Image\\instagram\\Image-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\instagram\\Image-06.jpg",
+      "PackagePath": "staticwebassets\\Image\\instagram\\Image-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\instagram\\Image-07.jpg",
+      "PackagePath": "staticwebassets\\Image\\instagram\\Image-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\instagram\\Image-08.jpg",
+      "PackagePath": "staticwebassets\\Image\\instagram\\Image-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\login.jfif",
+      "PackagePath": "staticwebassets\\Image\\login.jfif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\logo-2.png",
+      "PackagePath": "staticwebassets\\Image\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\logooo.jpg",
+      "PackagePath": "staticwebassets\\Image\\logooo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\room1.jpg",
+      "PackagePath": "staticwebassets\\Image\\room1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\room2.jpg",
+      "PackagePath": "staticwebassets\\Image\\room2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\room3.jpg",
+      "PackagePath": "staticwebassets\\Image\\room3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\room4.jpg",
+      "PackagePath": "staticwebassets\\Image\\room4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\testtimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Image\\testtimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\Image\\testtimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Image\\testtimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\css\\_elements.css",
+      "PackagePath": "staticwebassets\\css\\_elements.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\css\\_footer.css",
+      "PackagePath": "staticwebassets\\css\\_footer.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\css\\_testimonial.css",
+      "PackagePath": "staticwebassets\\css\\_testimonial.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\css\\_variables.css",
+      "PackagePath": "staticwebassets\\css\\_variables.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\css\\sb-admin-2.min.css",
+      "PackagePath": "staticwebassets\\css\\sb-admin-2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\css\\style (Mohammad Rocky's conflicted copy 2018-05-08).css",
+      "PackagePath": "staticwebassets\\css\\style (Mohammad Rocky's conflicted copy 2018-05-08).css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\css\\style.css (Mohammad Rocky's conflicted copy 2018-05-08).map",
+      "PackagePath": "staticwebassets\\css\\style.css (Mohammad Rocky's conflicted copy 2018-05-08).map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\js\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\js\\sb-admin-2.min.js",
+      "PackagePath": "staticwebassets\\js\\sb-admin-2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\js\\stellar.js",
+      "PackagePath": "staticwebassets\\js\\stellar.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\scss\\_accomodation.scss",
+      "PackagePath": "staticwebassets\\scss\\_accomodation.scss"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\scss\\_banner.scss",
+      "PackagePath": "staticwebassets\\scss\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\scss\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\scss\\_button.scss",
+      "PackagePath": "staticwebassets\\scss\\_button.scss"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\scss\\_predefine.scss",
+      "PackagePath": "staticwebassets\\scss\\_predefine.scss"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\scss\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\scss\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\bootstrap-datepicker\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-datepicker\\bootstrap-select.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\bootstrap-datepicker\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-datepicker\\bootstrap-select.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendors\\imagesloaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\isotope\\isotope-min.js",
+      "PackagePath": "staticwebassets\\vendors\\isotope\\isotope-min.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\lightbox\\simpleLightbox.css",
+      "PackagePath": "staticwebassets\\vendors\\lightbox\\simpleLightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\lightbox\\simpleLightbox.min.js",
+      "PackagePath": "staticwebassets\\vendors\\lightbox\\simpleLightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\linericon\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\vendors\\linericon\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\linericon\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\vendors\\linericon\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\linericon\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\vendors\\linericon\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\linericon\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\vendors\\linericon\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\linericon\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\vendors\\linericon\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\linericon\\style.css",
+      "PackagePath": "staticwebassets\\vendors\\linericon\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\nice-select\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\vendors\\nice-select\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\nice-select\\css\\style.css",
+      "PackagePath": "staticwebassets\\vendors\\nice-select\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\nice-select\\js\\jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\vendors\\nice-select\\js\\jquery.nice-select.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\nice-select\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\vendors\\nice-select\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\owl-carousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\vendors\\owl-carousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\owl-carousel\\assets\\animated.css",
+      "PackagePath": "staticwebassets\\vendors\\owl-carousel\\assets\\animated.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\owl-carousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\vendors\\owl-carousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\owl-carousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\vendors\\owl-carousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\keroles\\Downloads\\ITI\\Projects\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\ProjectFinal2\\wwwroot\\vendors\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\vendors\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ProjectFinal2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ProjectFinal2.props",
+      "PackagePath": "build\\ProjectFinal2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjectFinal2.props",
+      "PackagePath": "buildMultiTargeting\\ProjectFinal2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ProjectFinal2.props",
+      "PackagePath": "buildTransitive\\ProjectFinal2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

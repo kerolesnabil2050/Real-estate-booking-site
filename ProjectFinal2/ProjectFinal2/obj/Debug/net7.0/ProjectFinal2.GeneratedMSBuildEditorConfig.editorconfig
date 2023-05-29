@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjectFinal2
+build_property.RootNamespace = ProjectFinal2
+build_property.ProjectDir = C:\Users\keroles\Downloads\ITI\Projects\ProjectFinal2\ProjectFinal2\ProjectFinal2\ProjectFinal2\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\keroles\Downloads\ITI\Projects\ProjectFinal2\ProjectFinal2\ProjectFinal2\ProjectFinal2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Admin/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cR2V0QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Admin/GetAllOwner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cR2V0QWxsT3duZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Bill/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Bill/Recereive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxSZWNlcmVpdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Home/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Home/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Home/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Realeste/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbGVzdGVcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Realeste/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbGVzdGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Realeste/DetailsForUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbGVzdGVcRGV0YWlsc0ZvclVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Realeste/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbGVzdGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Realeste/GetAllForUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbGVzdGVcR2V0QWxsRm9yVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Realeste/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbGVzdGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Registration/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cmF0aW9uXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Registration/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cmF0aW9uXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Shared/-adminlayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXC1hZG1pbmxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Shared/Penndingpage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBlbm5kaW5ncGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Shared/_MyLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NeUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/keroles/Downloads/ITI/Projects/ProjectFinal2/ProjectFinal2/ProjectFinal2/ProjectFinal2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rsuu96xlae

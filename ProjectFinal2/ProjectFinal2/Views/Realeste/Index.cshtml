@@ -1,0 +1,31 @@
+﻿@model IEnumerable<ProjectFinal2.Models.realestate>
+
+@{
+    ViewData["Title"] = "Index";
+	 Layout = "_MyLayout";
+}
+
+<section class="accomodation_area section_gap" class="accomodation_area section_gap booking_table d_flex align-items-center" style="background-color:#DFEBFF ">
+	<div class="container">
+		<div class="section_title text-center">
+			<div class="row mb_30">
+
+			@foreach (realestate i in Model)
+			{
+				<div class="col-lg-3 col-sm-6">
+					<div class="accomodation_item text-center">
+						<div class="hotel_img">
+							<img src="~/Image/@i.Images[0].Image" class="w-100" height="300px" alt="">
+								<a href="/Realeste/Details/@i.Id" class="btn theme_btn button_hover" style="background-color:#446CB4;  border-radius:25px;border:3px solid ">Details </a>
+						</div>
+							<a href="#"><h4 class="sec_h4" style="font-size:20px;color:black">@i.Type</h4></a>
+						<h5 style="font-size:20px;color:black">@i.Price</h5>
+					</div>
+				</div>
+
+			}
+
+		</div>
+	</div>
+</section>
+

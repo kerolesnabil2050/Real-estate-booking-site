@@ -1,0 +1,59 @@
+﻿@model ProjectFinal2.Models.realestate
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "_MyLayout";
+}
+<div class="card mb-3 container" style="background-color:#DFEBFF; border-radius:25px" >
+    <div class="row g-0">
+        <div class="col-md-4">
+            <div class="row">
+                <img src="~/Image/@Model.Images[0].Image" class="img-fluid  my-5 rounded-start col-12" alt="...">
+                <div >
+                    @foreach (Images img in @Model.Images)
+                    {
+                        <img src="~/Image/@img.Image" class="img-fluid rounded-start col-3"  alt="...">
+                    }
+                </div>
+              
+            </div>
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+                <h3 class="card-title">Type : @Model.Type</h3>
+                <P class="card-text" style="font-size:20px">Floor Number : @Model.FloorNumber</P>
+                <p class="card-text" style="font-size:20px"> RoomsNumber :@Model.RoomsNumber</p>
+                <P class="card-text" style="font-size:20px">Address: @Model.Address</P>
+                <p class="card-text" style="font-size:20px">Price : @Model.Price</p>
+                <p class="card-text" style="font-size:20px">Duration : From @Model.StartDate   To  @Model.EndDate</p>
+                <p class="card-text"style="font-size:20px">Description : @Model.Description</p>
+                <a class="btn" style="background-color:#446CB4;margin-top:10px;width:100px;height:50px;border-radius:25px;border:3px solid;color:white ;font-size:20px;cursor:pointer" href="/Realeste/Edit/@Model.Id">Edit</a>
+                <a class="btn " style="background-color:red;margin-top:10px;width:100px;height:50px;border-radius:25px;border:3px solid ;color:white ;font-size:20px;cursor:pointer" href="/Realeste/Delete/@Model.Id">Delete</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row">
+
+        <div class="col-9 d-flex justify-content-center">
+            <div class="col-12">
+                @foreach (Feedback feedback in @Model.Feedbacks)
+                {
+                    <div>
+
+                        <p style="font-size:20px"><span class="text-info">@feedback.User.FirstName</span>  : @feedback.FeedbackBody</p>
+
+                    </div>
+
+                }
+            </div>
+        </div>
+        <div class="col-3"></div>
+    </div>
+
+</div>
+
+
+
+<a asp-action="Index">Back to List</a>

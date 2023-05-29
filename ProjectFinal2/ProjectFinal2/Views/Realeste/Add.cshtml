@@ -1,0 +1,92 @@
+﻿@model ProjectFinal2.ViewModels.RealestateViewModel
+
+@{
+    Layout = "_MyLayout";
+    ViewData["Title"] = "Add";
+}
+<div style="background:url('/Image/Bed.jpg') no-repeat scroll center 0/cover;padding:25px ">
+    <div class="col-5" style="background-color:#DFEBFF;
+
+border-radius:25px;padding:25px;">
+    <div class="col-2 pl-5" >
+        <form asp-action="Add" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Type" style="font-size:20px;color:black;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif" class="control-label"></label>
+                <select asp-for="Type" class="form-control">
+                    <option value="@HomeType.Apartment">Apartment</option>
+                    <option value="@HomeType.Villa">Villa</option>
+                </select>
+                <span asp-validation-for="Type" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RoomsNumber" style="font-size:20px;color:black;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif" class="control-label"></label>
+                    <input asp-for="RoomsNumber" style="width:300px; border-radius:25px" class="form-control" />
+                <span asp-validation-for="RoomsNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FloorNumber"  style="font-size:20px;color:black;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif" class="control-label"></label>
+                    <input asp-for="FloorNumber" style="width:300px; border-radius:25px" class="form-control" />
+                <span asp-validation-for="FloorNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" style="font-size:20px;color:black;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif" class="control-label"></label>
+                    <input asp-for="Price" style="width:300px; border-radius:25px" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" style="font-size:20px;color:black;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif" class="control-label"></label>
+                <input asp-for="Description" style="width:300px; border-radius:25px" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StartDate" style="font-size:20px;color:black;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif" class="control-label"></label>
+                    <input asp-for="StartDate" style="width:300px ;border-radius:25px" class="form-control" />
+                <span asp-validation-for="StartDate"  class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EndDate" style="font-size:20px;color:black;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif" class="control-label"></label>
+                    <input asp-for="EndDate" style="width:300px; border-radius:25px"  class="form-control" />
+                <span asp-validation-for="EndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address" style="font-size:20px;color:black;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif" class="control-label"></label>
+                    <input asp-for="Address" style="width:300px ;border-radius:25px" class="form-control" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="photes"  style="font-size:20px; color:black;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif" class="control-label"></label>
+                <input asp-for="photes" style="width:300px" class="form-control" multiple />
+                <span asp-validation-for="photes" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                    <input type="submit" value="Add" style="background-color:#446CB4;margin-top:10px;width:150px;height:60px;border-radius:25px;border:3px solid;color:white ;font-size:20px;cursor:pointer" />
+            </div>
+        </form>
+    </div>
+</div>
+    <div class="col-10" ></div>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+ <script>
+        $(document).ready(function(){
+            $('.custom-file-input').on("change"),function()
+            {
+                var fileLabel = $(this).next('.custom-file-label');
+                var files=$(this)[0].files;
+                if(files.length>1)
+                {
+                    fileLabel.html(files.length+ 'files Selected');
+                }
+                else (files.length ==1)
+                {
+                    fileLabel.html(files[0].name);
+                }
+            }
+        });
+ </script>
+}
